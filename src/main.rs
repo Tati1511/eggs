@@ -28,6 +28,6 @@ fn main() {
 
   
   println!("Number of eggs needed {}", c);
-  println!("enjoy your meal!");
+  println!("eggs are delicious!");
 
 }
